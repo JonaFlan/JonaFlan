@@ -15,6 +15,8 @@
   <h3> 💻 Lenguajes y herramientas</h3>
   <p>
     <img alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50">
+    <img alt="Intellij" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" width="50">
+    <img alt="VSCode" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50">
     <img alt="HTML" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50">
     <img alt="CSS" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="50">
     <img alt="Javascript" src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programacion-javascript.png"   width="50">
