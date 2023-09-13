@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 Sobre mi </h3>
 
 <p>
-  Estudiante de segundo año de Ingeniería en Informática con sólidos conocimientos en diversas tecnologías de programación. Poseo habilidades en Java, MySQL, JavaScript, HTML, CSS, Bootstrap y Spring Boot lo que me permite abordar proyectos con enfoque integral y creativo. Con una pasión por la resolución de problemas y el desarrollo de soluciones eficientes, aspiro a seguir creciendo profesionalmente y contribuir al mundo tecnológico con innovación y excelencia.
+  Estudiante de segundo año de Ingeniería en Informática con sólidos conocimientos en diversas tecnologías de programación. Poseo habilidades en Java, MySQL, JavaScript, HTML, CSS, Bootstrap y Spring Framework lo que me permite abordar proyectos con enfoque integral y creativo. Con una pasión por la resolución de problemas y el desarrollo de soluciones eficientes, aspiro a seguir creciendo profesionalmente y contribuir al mundo tecnológico con innovación y excelencia.
 </p>
 </div> 
 </div>
