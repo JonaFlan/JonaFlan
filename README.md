@@ -1,12 +1,12 @@
 <h1 align="center">Hola, soy Jonathan Gajardo 👋 </h1>
-<h3 align="center">Desarollador Fullstack</h3>
+<h3 align="center">Ingeniero informático</h3>
 <div>
 <img width = "35%" align="right" alt="img1" height="300px" src="https://informaticasoria.com/assets/images/aiso-informatica-soria-home.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 Sobre mi </h3>
 
 <p>
-  Titulado en Ingeniería en Informática con sólidos conocimientos en diversas tecnologías de programación. Poseo habilidades en Java, Python, MySQL, JavaScript, HTML, CSS, Bootstrap, Django y Spring Framework lo que me permite abordar proyectos con enfoque integral y creativo. Con una pasión por la resolución de problemas y el desarrollo de soluciones eficientes, aspiro a seguir creciendo profesionalmente y contribuir al mundo tecnológico con innovación y excelencia.
+  Soy Jonathan Gajardo, Ingeniero en Informática y diplomado en Big Data y Machine Learning. Me especializo en el desarrollo Full Stack y la ciencia de datos, combinando tecnologías como Python, Apache Spark, React y Django para diseñar arquitecturas escalables y modelos predictivos. Mi objetivo profesional es optimizar procesos operativos y transformar conjuntos de datos complejos en decisiones estratégicas de negocio.
 </p>
 </div> 
 </div>
@@ -26,5 +26,13 @@
     <img alt="HTML" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50">
     <img alt="CSS" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="50">
     <img alt="Javascript" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="50">
-  <p>
+  </p>
 </div> 
+
+<div>
+  <h3> 🤝 Conectemos </h3>
+  <p>
+    💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jonathan-gajardo/" target="_blank">linkedin.com/in/jonathan-gajardo</a><br>
+    ✉️ <b>Email:</b> <a href="mailto:jonathan.gajardo01@hotmail.com">jonathan.gajardo01@hotmail.com</a>
+  </p>
+</div>
