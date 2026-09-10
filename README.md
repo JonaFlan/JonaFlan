@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 Sobre mi </h3>
 
 <p>
-  Estudiante de tercer año de Ingeniería en Informática con sólidos conocimientos en diversas tecnologías de programación. Poseo habilidades en Java, Python, MySQL, JavaScript, HTML, CSS, Bootstrap, Django y Spring Framework lo que me permite abordar proyectos con enfoque integral y creativo. Con una pasión por la resolución de problemas y el desarrollo de soluciones eficientes, aspiro a seguir creciendo profesionalmente y contribuir al mundo tecnológico con innovación y excelencia.
+  Titulado en Ingeniería en Informática con sólidos conocimientos en diversas tecnologías de programación. Poseo habilidades en Java, Python, MySQL, JavaScript, HTML, CSS, Bootstrap, Django y Spring Framework lo que me permite abordar proyectos con enfoque integral y creativo. Con una pasión por la resolución de problemas y el desarrollo de soluciones eficientes, aspiro a seguir creciendo profesionalmente y contribuir al mundo tecnológico con innovación y excelencia.
 </p>
 </div> 
 </div>
@@ -19,8 +19,8 @@
     <img alt="Python" src="https://cdn.iconscout.com/icon/free/png-256/free-piton-2038870-1720083.png?f=webp" width="50">
     <img alt="Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png?w=360" width="50">
     <img alt="MySQL" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50">
-    <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="50">
-    <img alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50">
+    <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="50">
+    <img alt="Git" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="50">
     <img alt="Intellij" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" width="50">
     <img alt="VSCode" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50">
     <img alt="HTML" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50">
