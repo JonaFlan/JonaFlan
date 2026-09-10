@@ -46,7 +46,7 @@ Soy Jonathan Gajardo, Ingeniero en Informática y diplomado en Big Data y Machin
 
 </td>
 <td width="35%" valign="middle" align="center">
-<img alt="img1" src="https://informaticasoria.com/assets/images/aiso-informatica-soria-home.png" width="100%" />
+<img alt="img1" src="https://informaticasoria.com/assets/images/aiso-informatica-soria-home.png" width="350" />
 </td>
 </tr>
 </table>
